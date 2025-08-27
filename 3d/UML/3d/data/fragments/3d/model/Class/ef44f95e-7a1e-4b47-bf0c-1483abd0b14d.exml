@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CGraphics" version="3">
+  <DEPS>
+    <ID name="CGraphics" mc="Class" uid="ef44f95e-7a1e-4b47-bf0c-1483abd0b14d"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="CGraphics" mc="Class" uid="ef44f95e-7a1e-4b47-bf0c-1483abd0b14d"/>
+    <PID name="3d" mc="Package" uid="da73faa4-2533-4430-84fd-c5babe1a84fa"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CGraphics]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

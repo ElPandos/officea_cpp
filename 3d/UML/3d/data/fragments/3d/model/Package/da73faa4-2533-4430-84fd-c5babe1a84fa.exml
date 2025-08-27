@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="3d" version="3">
+  <DEPS>
+    <ID name="3d" mc="Package" uid="da73faa4-2533-4430-84fd-c5babe1a84fa"/>
+    <COMPID name="CApp" mc="Class" uid="597ac70d-6283-4fda-bcd3-394407eaa6d8"/>
+    <COMPID name="CEventHandler" mc="Class" uid="a65c499f-a65d-429e-9027-ca097ce153fc"/>
+    <COMPID name="CGraphics" mc="Class" uid="ef44f95e-7a1e-4b47-bf0c-1483abd0b14d"/>
+    <COMPID name="CLogger" mc="Class" uid="909b421c-a7a5-4113-ba35-6e61da894200"/>
+    <COMPID name="CObjects" mc="Class" uid="9d0df0f6-cd8f-4ac6-8c99-c453aa68c682"/>
+    <COMPID name="CTexture" mc="Class" uid="61a44f6a-751e-49e0-b4be-b07f40902603"/>
+    <COMPID name="CTimer" mc="Class" uid="7750ba2d-b9f3-4040-98ad-f02c3f90918e"/>
+    <COMPID name="CUserControls" mc="Class" uid="80ec6ea5-b0be-40b6-a4bd-6cb6178f669c"/>
+    <COMPID name="CUserInput" mc="Class" uid="225a3543-e9a5-43fd-a1b8-e54d89c7658f"/>
+    <COMPID name="CUserState" mc="Class" uid="295dede2-c933-4389-bc92-1b2f0b939df1"/>
+    <COMPID name="CWindow" mc="Interface" uid="43215445-7e7d-4960-adbd-87fd33ea3449"/>
+    <COMPID name="CWindowHandler" mc="Class" uid="cee0b5d9-a360-4769-a224-73fc07afde43"/>
+    <COMPID name="overview diagram" mc="ClassDiagram" uid="59d54150-6530-46bd-84d2-6ce9c8d2acbc"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="3d" mc="Package" uid="da73faa4-2533-4430-84fd-c5babe1a84fa"/>
+    <PID name="3d" mc="Project" uid="4dcbebf5-9a3c-4690-a4d2-6343d21d6e10"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[3d]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="CApp" mc="Class" uid="597ac70d-6283-4fda-bcd3-394407eaa6d8"/>
+        <COMPID name="CEventHandler" mc="Class" uid="a65c499f-a65d-429e-9027-ca097ce153fc"/>
+        <COMPID name="CUserInput" mc="Class" uid="225a3543-e9a5-43fd-a1b8-e54d89c7658f"/>
+        <COMPID name="CTimer" mc="Class" uid="7750ba2d-b9f3-4040-98ad-f02c3f90918e"/>
+        <COMPID name="CTexture" mc="Class" uid="61a44f6a-751e-49e0-b4be-b07f40902603"/>
+        <COMPID name="CLogger" mc="Class" uid="909b421c-a7a5-4113-ba35-6e61da894200"/>
+        <COMPID name="CGraphics" mc="Class" uid="ef44f95e-7a1e-4b47-bf0c-1483abd0b14d"/>
+        <COMPID name="CUserControls" mc="Class" uid="80ec6ea5-b0be-40b6-a4bd-6cb6178f669c"/>
+        <COMPID name="CUserState" mc="Class" uid="295dede2-c933-4389-bc92-1b2f0b939df1"/>
+        <COMPID name="CWindowHandler" mc="Class" uid="cee0b5d9-a360-4769-a224-73fc07afde43"/>
+        <COMPID name="CWindow" mc="Interface" uid="43215445-7e7d-4960-adbd-87fd33ea3449"/>
+        <COMPID name="CObjects" mc="Class" uid="9d0df0f6-cd8f-4ac6-8c99-c453aa68c682"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="ClassDiagram" uid="59d54150-6530-46bd-84d2-6ce9c8d2acbc"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

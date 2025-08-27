@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CUserControls" version="3">
+  <DEPS>
+    <ID name="CUserControls" mc="Class" uid="80ec6ea5-b0be-40b6-a4bd-6cb6178f669c"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="CUserControls" mc="Class" uid="80ec6ea5-b0be-40b6-a4bd-6cb6178f669c"/>
+    <PID name="3d" mc="Package" uid="da73faa4-2533-4430-84fd-c5babe1a84fa"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CUserControls]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="3d" version="3">
+  <DEPS>
+    <ID name="3d" mc="AnalystProject" uid="f86e0528-8d67-4b96-8226-aa07d3075351"/>
+    <COMPID name="3d" mc="PropertyContainer" uid="38b06168-fbe3-44b5-befc-dc4ebdf313f4"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="3d" mc="AnalystProject" uid="f86e0528-8d67-4b96-8226-aa07d3075351"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[3d]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="3d" mc="PropertyContainer" uid="38b06168-fbe3-44b5-befc-dc4ebdf313f4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
